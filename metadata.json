@@ -1,0 +1,6 @@
+{
+  "name": "CineStream",
+  "description": "All-free movie streaming app with online and offline viewing, download manager, and personalized recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

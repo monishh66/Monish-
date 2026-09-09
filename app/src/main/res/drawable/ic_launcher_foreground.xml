@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Clapperboard Body / Film Frame -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M30,42 L78,42 C81.3,42 84,44.7 84,48 L84,74 C84,77.3 81.3,80 78,80 L30,80 C26.7,80 24,77.3 24,74 L24,48 C24,44.7 26.7,42 30,42 Z" />
+
+    <!-- Clapperboard angled top banner with stripes -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M25,32 L83,32 C84.6,32 86,33.4 86,35 L86,39 C86,40.6 84.6,42 83,42 L25,42 C23.4,42 22,40.6 22,39 L22,35 C22,33.4 23.4,32 25,32 Z" />
+
+    <!-- Top diagonal white stripes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,32 L40,32 L34,42 L27,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,32 L55,32 L49,42 L42,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,32 L70,32 L64,42 L57,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,32 L84,32 L79,42 L73,42 Z" />
+
+    <!-- Bold Play Triangle in Center of Film Frame -->
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M46,51 L68,61 L46,71 Z" />
+
+    <!-- Cinema Star Sparkle / Quality badge -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M76,46 L77.5,50 L81.5,50.5 L78.5,53.2 L79.3,57 L76,55 L72.7,57 L73.5,53.2 L70.5,50.5 L74.5,50 Z" />
+</vector>
